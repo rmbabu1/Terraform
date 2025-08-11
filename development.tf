@@ -7,5 +7,3 @@ provider "aws" {
    access_key = "******5BI6PEW"
    secret_key = "*******4pGSMfNe"
 }
-
-
